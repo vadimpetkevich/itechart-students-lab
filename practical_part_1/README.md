@@ -1,5 +1,5 @@
 # Инструкция по запуску решений
-1.UpDown <br />
+1. UpDown <br />
 Запускать updown/updown.rb <br />
 2. Singleton <br />
   Смотреть singleton/singleton.rb <br />
