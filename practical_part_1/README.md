@@ -1,8 +1,8 @@
 # Инструкция по запуску решений
-1.UpDown
-  Запускать updown/updown.rb 
-2. Singleton
-  Смотреть singleton/singleton.rb
+1.UpDown <br />
+  Запускать updown/updown.rb <br />
+2. Singleton <br />
+  Смотреть singleton/singleton.rb <br />
 3. Jerseys Of Michael Jordan
   Запускать jerseys_of_michael_jordan/jerseys_sum_argv.rb
 4. Without Sugar
