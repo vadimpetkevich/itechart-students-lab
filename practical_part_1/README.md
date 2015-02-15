@@ -1,6 +1,6 @@
 # Инструкция по запуску решений
 1.UpDown <br />
-  Запускать updown/updown.rb <br />
+__Запускать updown/updown.rb <br />
 2. Singleton <br />
   Смотреть singleton/singleton.rb <br />
 3. Jerseys Of Michael Jordan
