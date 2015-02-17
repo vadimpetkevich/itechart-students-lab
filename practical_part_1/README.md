@@ -1,6 +1,8 @@
 ## instructions for running solutions
 1. UpDown <br />
-  run updown/updown.rb
+  Add this line to your application's Gemfile:
+
+    gem 'motion-layout'
 2. Singleton <br />
 see singleton/singleton.rb <br />
 3. Jerseys Of Michael Jordan <br />
