@@ -1,8 +1,6 @@
-# instructions for running solutions
+## instructions for running solutions
 1. UpDown <br />
-
   run updown/updown.rb
-
 2. Singleton <br />
 see singleton/singleton.rb <br />
 3. Jerseys Of Michael Jordan <br />
