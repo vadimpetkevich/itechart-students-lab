@@ -1,4 +1,4 @@
-## instructions for running solutions
+## Instructions for running solutions:
 
 1. Self <br/>
 See `self/self.rb`
@@ -13,7 +13,7 @@ Run `disappeared/run.rb`
 6. Sherlock on numbers <br/>
 Run `sherlock_on_numbers/run.rb`
 
-## for the curious
+## For The Curious:
 
 1. See `for_the_curious/1.rb`
 2. See `for_the_curious/2.rb`
