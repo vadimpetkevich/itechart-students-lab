@@ -1,4 +1,4 @@
-## instructions for running solutions
+## Instructions for running solutions
 
 1. UpDown <br/>
 Run `updown/updown.rb`
