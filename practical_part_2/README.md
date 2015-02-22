@@ -5,13 +5,13 @@ See `self/self.rb`
 2. Wazzup, man? <br/>
 See `wazzup_man?/wazzup_man.rb`
 3. Number Snake <br/>
-Run `number_snake/run.rb`
+`number_snake$ ruby run.rb`
 4. Happy <br/>
-Run `happy/happy.rb`
+`happy$ ruby happy.rb`
 5. Disappeared <br/>
-Run `disappeared/run.rb`
+`disappeared$ ruby run.rb`
 6. Sherlock on numbers <br/>
-Run `sherlock_on_numbers/run.rb`
+`sherlock_on_numbers$ ruby run.rb`
 
 ## For The Curious:
 
