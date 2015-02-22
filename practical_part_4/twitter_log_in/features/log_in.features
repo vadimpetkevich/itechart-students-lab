@@ -1,0 +1,18 @@
+Feature: Log in
+  In order to twitter recognize user
+  A users
+  Should be abble to log in
+ 
+  Scenario: User enters the invalid data
+
+    Given User on the Log in page
+    When User enters the invalid data
+    And User turns log in
+    Then User should see error message
+
+  Scenario: User enters the existing data
+
+    Given User on the Log in page
+    When User enters the existing data
+    And User turns log in
+    Then User should see him page

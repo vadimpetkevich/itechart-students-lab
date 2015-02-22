@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+exec 'bundle exec credit_card_validator ' + ARGV.join(' ')

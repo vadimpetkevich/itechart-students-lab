@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colored (1.2)
+    murmurhash3 (0.1.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  colored
+  murmurhash3
