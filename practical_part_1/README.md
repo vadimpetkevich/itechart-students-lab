@@ -5,7 +5,7 @@
 2. Singleton <br/>
 See `singleton/singleton.rb`
 3. Jerseys Of Michael Jordan <br/>
-Run with command line arguments <br/>
+Run with command line arguments: <br/>
 `jerseys_of_michael_jordan$ ruby jerseys_sum_argv.rb 21 53 18`
 4. Without Sugar <br/>
 See `without_sugar/without_sugar.rb`
