@@ -2,6 +2,7 @@
 
 1. Use gem <br/>
 `use_gem$ bundle` <br/>
+Run with command line arguments: <br/>
 `use_gem$ ./credit_card_validator 5105105105105100`
 2. Hash <br/>
 `hash$ bundle` <br/>
