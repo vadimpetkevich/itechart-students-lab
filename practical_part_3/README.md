@@ -6,7 +6,7 @@
 2. Hash <br/>
 `hash$ bundle` <br/>
 `hash$ ruby benchmark.rb`
-3. Custom Array Filters
+3. Custom Array Filters <br/>
 `custom_array_filters$ ruby run.rb`
-4. A String of Sorts
+4. A String of Sorts <br/>
 `string_of_sorts$ ruby run.rb`
