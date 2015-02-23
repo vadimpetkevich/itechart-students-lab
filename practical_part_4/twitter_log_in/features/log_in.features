@@ -1,18 +1,19 @@
 Feature: Log in
-  In order to twitter recognize user
-  A users
+
+  In order to vk.com recognize user
+  A user
   Should be abble to log in
  
   Scenario: User enters the invalid data
 
-    Given User on the Log in page
-    When User enters the invalid data
-    And User turns log in
-    Then User should see error message
+    Given I'm on the Log in page
+    When I enter the invalid data
+    And I turn log in
+    Then I should see error message
 
-  Scenario: User enters the existing data
+  Scenario: User enters the existing data.
 
-    Given User on the Log in page
-    When User enters the existing data
-    And User turns log in
-    Then User should see him page
+    Given I'm on the Log in page
+    When I enter the existing data
+    And I turn log in
+    Then I should see my page
