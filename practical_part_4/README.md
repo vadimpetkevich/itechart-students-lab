@@ -6,5 +6,4 @@
 2. Vk log In cucumber tests <br/>
 `vk_log_in$ bundle` <br/>
 Write a valid username and password to a `vk_log_in/feature/support/env.rb` <br/>
-`vk_log_in$ cucumber`
-
+`vk_log_in$ cucumber features/log_in.features`
